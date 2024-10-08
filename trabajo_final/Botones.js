@@ -1,8 +1,6 @@
 class byf {
   constructor() {
-    this.textos = [];
     this.f = 20;
-    this.flautista = [];
     this.drc=50;
     this.izq=350;
     this.down=500;
