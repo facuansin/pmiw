@@ -1,7 +1,7 @@
 //Trabajo Final Parte 1
 //Alumno: Facundo ansin
 //Legajo: 93054/5
-//link a video:
+//link a video: https://www.youtube.com/watch?v=TzpgH5QHJkQ&ab_channel=FacundoAnsin
 //Comision 1
 
 
